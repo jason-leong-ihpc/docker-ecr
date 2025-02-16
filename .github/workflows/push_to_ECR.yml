@@ -1,4 +1,4 @@
-name: Deploy to Amazon ECS
+name: Push docker image to Amazon ECR
 
 on: workflow_dispatch
                                                
